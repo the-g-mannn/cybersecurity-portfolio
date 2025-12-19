@@ -1,4 +1,4 @@
-# First Lab Notes
+# First Lab Notes 
 
 ## Context
 This document marks the beginning of my hands-on cybersecurity learning documentation. The goal is to practice professional write-ups and establish consistency.
